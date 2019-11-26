@@ -92,6 +92,8 @@ I just love **bold text**
 Love**is**bold  
 ***555***
 
+---
+
 - First item
 - Second item
 - Third item
