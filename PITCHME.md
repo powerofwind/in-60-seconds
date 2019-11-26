@@ -86,3 +86,18 @@ REFERENCES "forum" ("id");
         >>> blockquote
             >>>> blockquote
                 >>>>> blockquote
+
+
+I just love **bold text**  
+Love**is**bold  
+***555***
+
+- First item
+- Second item
+- Third item
+
+[google](https://www.google.co.th)
+
+![picture](https://www.adgully.com/img/800/201707/image002-3.jpg)
+
+---
