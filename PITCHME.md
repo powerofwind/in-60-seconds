@@ -94,7 +94,7 @@ Love**is**bold
 
 ---
 
-- First item
+- พิมพ์ไทยได้ไหม?
 - Second item
 - Third item
 
